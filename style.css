@@ -1,0 +1,31 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: lightgrey;
+    font-size: 1.8rem;
+}
+
+
+
+#para5, #para3 {
+
+}
+
+
+
+@keyframes size {
+
+    0% {
+        font-size: 1.6rem;
+    }
+
+    50% {
+        font-size: 2.5rem;
+    }
+
+    100% {
+        font-size: 1.6rem;
+    }
+}
